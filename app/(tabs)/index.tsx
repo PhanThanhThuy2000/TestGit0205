@@ -18,8 +18,13 @@ export default function HomeScreen() {
       }>
       <ThemedView style={styles.titleContainer}>
         <ThemedText type="title">Welcome!</ThemedText>
+        <ThemedText type="title">thuy code!</ThemedText>
         <ThemedText type="title">Thang code!</ThemedText>
         <ThemedText type="title">Thuy code!</ThemedText>
+        <ThemedText type="title">Thuy code s2!</ThemedText>
+        <ThemedText type="title">Thuy code s4!</ThemedText>
+        <ThemedText type="title">Thuy code s5!</ThemedText>
+        <ThemedText type="title">Thuy code s6!</ThemedText>
         <HelloWave />
       </ThemedView>
       <ThemedView style={styles.stepContainer}>
